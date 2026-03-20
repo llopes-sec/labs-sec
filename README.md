@@ -47,6 +47,16 @@ Scripts simples desenvolvidos para apoio em tarefas de rede e análise de dados:
 
 ---
 
+## 🛠 Troubleshooting de Rede
+Scripts voltados para diagnóstico e resolução de problemas comuns de conectividade:
+
+- DNS resolution check  
+- Gateway connectivity test  
+- Network diagnostics  
+- System information gathering
+
+---
+
 ## 🚀 Como usar
 1. Clone o repositório  
 2. Navegue até a pasta desejada  
