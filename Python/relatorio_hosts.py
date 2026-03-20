@@ -1,3 +1,8 @@
+# Script: relatorio_hosts.py
+# Descrição: gera um relatório com o status dos hosts da rede
+# Objetivo: automatizar a verificação e registro de hosts ativos
+# Autor: Lucas
+
 import os
 import datetime
 
@@ -15,4 +20,4 @@ with open(f"relatorio_{datetime.date.today()}.txt", "w") as f:
     for linha in relatorio:
         f.write(linha + "\n")
 
-print("Relatório gerado!")
+print("Relatório gerado com sucesso!")
