@@ -4,7 +4,7 @@ Este repositório reúne meus projetos práticos de **Home Lab**, com foco em re
 
 ---
 
-## [🧪 Simulação de Rede – Home Lab](./simulacao-rede/README.md)
+## [🧪 Simulação de Rede](./simulacao-rede/README.md)
 - Simulações de topologias no **Cisco Packet Tracer**  
 - Configuração de rede interna, testes de conectividade e segmentação  
 
