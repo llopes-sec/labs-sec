@@ -8,7 +8,7 @@ como o firewall decide o que bloquear e o que permitir.
 - Block ICMP (ping) — bloqueia pacotes ICMP saindo da LAN
 
 ## Impacto das Regras 
--impede diagnóstico de rede via ICMP, reduzindo a exposição a varreduras simples de rede.
+- Impede diagnóstico de rede via ICMP, reduzindo a exposição a varreduras simples de rede.
 
 ## Prints
 
