@@ -5,7 +5,8 @@ Criar regras de controle de tráfego no OPNsense, entendendo
 como o firewall decide o que bloquear e o que permitir.
 
 ## Regras criadas
-- Block ICMP (ping) — bloqueia pacotes ICMP saindo da LAN
+- Regra: Block ICMP from LAN net to any  
+  Descrição: bloqueia pacotes ICMP (ping) saindo da rede LAN para qualquer destino.
 
 ## Impacto das Regras 
 - Impede diagnóstico de rede via ICMP, reduzindo a exposição a varreduras simples de rede.
