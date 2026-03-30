@@ -8,9 +8,15 @@ como o firewall decide o que bloquear e o que permitir.
 - Block ICMP (ping) — bloqueia pacotes ICMP saindo da LAN
 
 ## Prints
-- `prints/opn-rules.png` → Regras da interface LAN
-- `prints/opn-ping-icmprule.png` → Teste de ping via Diagnostics
-- `prints/opn-log-ping.png` → Log do firewall
+
+**Regras da interface LAN:**
+![Regras LAN](prints/opn-rules.png)
+
+**Teste de ping via Diagnostics:**
+![Ping ICMP](prints/opn-ping-icmprule.png)
+
+**Log do firewall:**
+![Log firewall](prints/opn-log-ping.png)
 
 ## O que eu aprendi
 As regras de firewall são processadas de cima pra baixo,
