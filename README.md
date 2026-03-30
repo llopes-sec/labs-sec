@@ -25,7 +25,7 @@ Utilização do **Nmap** para:
 
 ---
 
-🔐 Testes de Firewall e Segmentação
+## 🔐 Testes de Firewall e Segmentação
 * [OPNsense Lab](./opnsense-lab) — Firewall em ambiente virtualizado
 * Criação e aplicação de regras de bloqueio e permissão
 * Análise de logs de tráfego
