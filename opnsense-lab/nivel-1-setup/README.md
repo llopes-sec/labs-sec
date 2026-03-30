@@ -17,7 +17,12 @@ Instalar e configurar o OPNsense em ambiente virtualizado com acesso via painel 
 - Acesso ao painel web via navegador
 
 ## Resultado
-Painel web acessível em https://192.168.56.101
+O firewall foi instalado com sucesso e o acesso ao painel web foi validado via navegador, confirmando a conectividade e funcionamento inicial do ambiente.
+
+## Prints
+
+**Dashboard OPNsense:**
+![Dashboard](prints/opn-dash.png)
 
 ## O que eu aprendi
 Entendi na prática a diferença entre WAN e LAN:
@@ -28,8 +33,3 @@ O principal aprendizado foi que ambientes de segurança
 exigem persistência, erros fazem parte do processo de configuração
 e saber interpretar mensagens de erro é tão importante 
 quanto seguir o passo a passo.
-
-## Prints
-
-**Dashboard OPNsense:**
-![Dashboard](prints/opn-dash.png)
