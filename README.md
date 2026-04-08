@@ -1,4 +1,4 @@
-# 💻 Home Lab – Lucas Lopes
+# 💻 Home Lab 
 
 Repositório com projetos práticos voltados para **redes, infraestrutura e cibersegurança**, simulando cenários reais de ambientes corporativos.
 
