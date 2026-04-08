@@ -17,7 +17,7 @@ Este repositório reúne meus projetos práticos de **Home Lab**, com foco em re
 
 ---
 
-## 🔍 Varredura de Rede
+## [🔍 Varredura de Rede](./varredura-nmap/README.md)
 Utilização do **Nmap** para:
 - Descoberta de hosts ativos  
 - Identificação de portas abertas  
