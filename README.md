@@ -1,4 +1,4 @@
-# 💻 Portifólio
+# 💻 IT & Cybersecurity Portfolio — Lucas Lopes 🔐
 
 Repositório com projetos práticos voltados para **redes, infraestrutura e cibersegurança**, simulando cenários reais de ambientes corporativos.
 
