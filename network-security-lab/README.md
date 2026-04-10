@@ -29,3 +29,9 @@ aplicando conceitos de troubleshooting, controle de acesso e análise de tráfeg
 ## Resultados
 Cada cenário documenta um problema real de rede, a investigação realizada,
 a solução aplicada e a análise de segurança correspondente.
+
+---
+
+## 👤 Autor: Lucas Lopes
+
+Feito com 💙 e ☕ como parte do meu Home Lab e estudos.
