@@ -1,4 +1,4 @@
-# Portifólio do Lucas💻
+# 💻 Portifólio
 
 Repositório com projetos práticos voltados para **redes, infraestrutura e cibersegurança**, simulando cenários reais de ambientes corporativos.
 
