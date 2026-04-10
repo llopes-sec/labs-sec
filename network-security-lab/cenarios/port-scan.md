@@ -17,7 +17,7 @@ sudo nmap -sS 192.168.56.106
 
 Portas abertas identificadas:
 
-![nmap antes firewall](../evidencias/prints/10_nmap_antes_firewall.png)
+![nmap antes firewall](../evidencias/prints/11_nmap_antes_firewall.png)
 
 Resultado:
 - 22/tcp — SSH
@@ -31,7 +31,7 @@ sudo ufw enable
 Mesma varredura com ufw ativo:
 sudo nmap -sS 192.168.56.106
 
-![nmap depois firewall](../evidencias/prints/11_nmap_depois_firewall.png)
+![nmap depois firewall](../evidencias/prints/12_nmap_depois_firewall.png)
 
 Resultado: 1000 portas filtered — nenhuma acessível externamente.
 
