@@ -1,6 +1,3 @@
-Cola isso:
-markdown
-
 # Firewall Control — Controle de Acesso
 
 ## Problema
